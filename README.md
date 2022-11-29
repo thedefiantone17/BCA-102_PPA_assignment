@@ -1,5 +1,5 @@
 
-### Programming principles & Algorithm
+### BCA-102 Programming principles & Algorithm
 # Assignment
 
 to create programs given in the pdf: [Program List BCA(PPA)](./Program%20List%20BCA(PPA).pdf)
