@@ -8,5 +8,4 @@ int main(int argc, char const *argv[])
     scanf("%c", &ch); // user input
     printf("The ASCII value of the ch variable is : %d", ch);
     return 0;
-    return 0;
 }
